@@ -150,8 +150,8 @@
 
 			<!-- Page Head -->
 			<h2>Welcome John</h2>
-			<p id="page-intro">&nbsp;</p>
-
+			<p id="page-intro">
+                        Start Solving Problems now!</p>
 			
 			<div class="clear"></div> <!-- End .clear -->
 
